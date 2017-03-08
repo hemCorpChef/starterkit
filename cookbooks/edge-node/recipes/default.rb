@@ -4,4 +4,4 @@
 #
 # Copyright:: 2017, The Authors, All Rights Reserved.
 
-recipe[java]
+include_recipe 'java'
